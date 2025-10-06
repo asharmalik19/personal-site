@@ -20,4 +20,7 @@ When I'm not coding, you’ll probably find me:
 - Working on side projects  
 - Connecting with people who share a love for innovation  
 
-Feel free to reach out if you'd like to chat about software, startups, or anything in between.
+If you want to contact me, you can reach me via one of the following channels:
+- via [Email](mailto:asharmalik.khan@gmail.com)
+- reach out to me on [Linkedin](https://www.linkedin.com/in/ashar-malik)
+- find me on [Github](https://github.com/asharmalik19)
