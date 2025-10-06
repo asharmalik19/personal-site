@@ -2,8 +2,8 @@
 layout: design-post
 title:  "g-news-summarization app"
 date:   2020-05-21 21:21:21 +0530
-tags: [general]
+tags: [ai, web-scraping]
 ---
 
-i have built an app that displays google news summaries and here is why i built it...
+i built an app that displays google news summaries
 

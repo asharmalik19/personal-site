@@ -90,13 +90,13 @@ timezone: America/New_York
 future: false
 
 
-Blog: /blog
-Life: /life
+blog: /blog
+life: /life
 
 # Add general links to site pages here
 links:
   # Resume: /assets/resume.pdf
-  Projects: /projects
+  projects: /projects
 
 # Add links for more focus here
 special_links:

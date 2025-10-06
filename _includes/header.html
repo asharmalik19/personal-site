@@ -5,9 +5,9 @@
     <h2 class="title">{{ site.title }}</h2>
     <nav>
         <p>
-            <a href="{{ site.url }}">About</a> 
-            <a href="{{ site.url }}{{ site.Blog }}">Blog</a>
-            <a href="{{ site.url }}{{ site.Life }}">Life</a>
+            <a href="{{ site.url }}">about me</a> 
+            <a href="{{ site.url }}{{ site.Blog }}">blog</a>
+            <a href="{{ site.url }}{{ site.Life }}">life</a>
         
             {% for link in site.links %}
                 <a href="{{ site.url }}{{ link[1] }}">{{ link[0] }}</a>
