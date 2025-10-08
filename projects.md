@@ -10,9 +10,7 @@ I'm passionate about building tools that solve real-world problems. Below are a 
 
 ### [Google News Summarizer](https://github.com/asharmalik19/g_news_summarization)
 An app that scrapes and displays summaries from Google News to provide quick insights into the latest headlines by generating AI summaries.
-*   **Read the post:** [g-news-summarization app](/blog/g-news-summarization-app)
-
----
+*   **Read the post:** [gnews-summarization app](/blog/gnews-summarization-app)
 
 ### [Bizsleuth](https://apify.com/ashar_malik/lead-hunter)
 A lead generation tool that scrapes all essential information about a business from its website for outreach. It uses AI for parsing information.

@@ -86,12 +86,11 @@ defaults:
 
 # baseurl: ""
 permalink: /blog/:slug
-timezone: America/New_York
+timezone: Asia/Karachi
 future: false
 
 
 blog: /blog
-life: /life
 
 # Add general links to site pages here
 links:
