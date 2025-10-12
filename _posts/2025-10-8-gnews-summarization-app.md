@@ -4,7 +4,7 @@ title:  "Google News Summarizer"
 tags: [ai, web-scraping]
 ---
 
-I built an app that displays google news summaries. 
+I built an app that displays Google news summaries. 
 
 I was lying down in my bed and an idea crossed my mind. I love to read articles but because of information overload, there is too much to read and too little time. I once used to read a lot of `Google News Articles` but now I can hardly read a few. Another problem is most of the articles are bloated with ads (I hate that). So I thought why not creating an app that displays the summaries of `Google News Articles`. And the journey began...
 
